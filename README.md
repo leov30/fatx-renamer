@@ -12,3 +12,5 @@ limitations:
 will only work with extensions with 3 characters
 some characters in folder name may brake the scrip (need testing)
 character [^] in file name may not show (need testing)
+
+now works with single files, and added some error checks
