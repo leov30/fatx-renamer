@@ -13,4 +13,6 @@ will only work with extensions with 3 characters
 some characters in folder name may brake the scrip (need testing)
 character [^] in file name may not show (need testing)
 
-now works with single files, and added some error checks
+change log:
+v1 now works with single files, and added some error checks, added the option to use short country codes
+v2 added the option to remove parenthesis tags, and now will remove trailing spaces before checking for 38 char limit
