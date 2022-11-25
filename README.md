@@ -14,3 +14,12 @@ will only work with extensions with 3 characters
 character [^] in file name may not show (need testing)
 parenthesis tags are only for no-intro file names
 
+# updates
+script will rename all files from the same folder as the script, just run and will prompt to continue
+
+new menu with examples
+
+will write an error.log for not found files, for file names with incompatible batch characters
+
+
+![Capture](https://user-images.githubusercontent.com/28023649/203903171-a1388ad9-2c6a-4935-ae38-330a84efcb37.JPG)
